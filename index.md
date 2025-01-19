@@ -10,4 +10,13 @@
 
 ###### Header Level 6
 ![Trump Boots](https://imageio.forbes.com/specials-images/imageserve/65d2a4963e09b499264ba10a/0x0.jpg?format=jpg)
-Added Headers
+
+``` javascript
+var myVar = "Hello, world!";
+```
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
